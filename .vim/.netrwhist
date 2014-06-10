@@ -1,5 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/opt/stack/horizon/horizon/templates/horizon/common'
 let g:netrw_dirhist_2='/opt/stack/horizon/horizon/templates/horizon'
 let g:netrw_dirhist_3='/opt/stack/horizon/horizon/templates'
+let g:netrw_dirhist_4='/opt/stack/horizon/.blackhole'
+let g:netrw_dirhist_5='/opt/stack/horizon/.git'
+let g:netrw_dirhist_6='/opt/stack/nova'
+let g:netrw_dirhist_7='/opt/stack'
+let g:netrw_dirhist_8='/opt/stack/horizon'
+let g:netrw_dirhist_9='/opt/stack/horizon/openstack_dashboard/dashboards/project/access_and_security/security_groups'
