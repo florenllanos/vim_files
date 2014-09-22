@@ -8,6 +8,7 @@ pip install jedi
 
 Installed plugins
 =================
+vim-pathogen
 ctrlp.vim
 jedi-vim
 nerdtree
