@@ -67,10 +67,10 @@ syntax on                    " syntax highlighing
 filetype on                  " try to detect filetypes
 filetype plugin indent on    " enable loading indent file for filetype
  
-"au FileType python set omnifunc=pythoncomplete#Complete
-"let g:SuperTabDefaultCompletionType = "context"
+au FileType python set omnifunc=pythoncomplete#Complete
+let g:SuperTabDefaultCompletionType = "context"
  
-"set completeopt=menuone,longest,preview
+set completeopt=menuone,longest,preview
 
 " crtlp
 set runtimepath^=~/.vim/bundle/ctrlp.vim
